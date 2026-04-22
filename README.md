@@ -1,17 +1,21 @@
-# สายพานลำเลียงทาส / The Slavery Conveyor
+# สายพานลำเลียงทาส - The Slavery Conveyor
 
-> **New Paradigm of Transit and Nation's Root Cause: How "Transit" Destroys a Nation?**
+> **การเดินทางของแรงงาน ทำลายชาติได้อย่างไร?** - **New Paradigm of Transit and Nation's Root Cause: How "Transit" Destroys a Nation?**
 
 ---
 
-### 🌐 Select Language / เลือกภาษา
+<p align="center">
+  <b>🌐 Select Language / เลือกภาษา</b>
+</p>
 
-<a href="the-slavery-conveyor-th.md">
-  <img src="https://img.shields.io/badge/Language-ภาษาไทย-red?style=for-the-badge&logo=thailand" alt="Thai Language">
-</a>
-
-<a href="the-slavery-conveyor-en.md">
-  <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=google-translate" alt="English Language">
-</a>
+<p align="center">
+  <a href="the-slavery-conveyor-th.md">
+    <img src="https://img.shields.io/badge/ภาษาไทย-DE4444?style=for-the-badge&logo=thailand&logoColor=white" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="the-slavery-conveyor-en.md">
+    <img src="https://img.shields.io/badge/ENGLISH-4183C4?style=for-the-badge&logo=google-translate&logoColor=white" height="60">
+  </a>
+</p>
 
 ---
